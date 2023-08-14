@@ -1,0 +1,23 @@
+*{
+    font-family: monospace;
+}
+header input{
+    margin-left: 80vw;
+}
+header img{
+    margin-top: 6vh;
+    margin-left: 35vw;
+    width: 25vw;
+}
+.card{
+    margin: 5vw;
+}
+.card1{
+    display: flex;
+}
+.card2{
+    display: flex;
+}
+.card3{
+    display: flex;
+}
